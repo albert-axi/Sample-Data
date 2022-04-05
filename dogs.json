@@ -1,13 +1,12 @@
 {
-  "dogs":[
+  dogs:[
     {
-      "breed": "Spitz",
-      "name": "Louie"
+      breed: "Spitz",
+      name: "Louie"
     },
     {
-      "breed": "Border Collie",
-      "name": "Lassie"
+      breed: "Border Collie",
+      name: "Lassie"
     },
   ]
-
 }
